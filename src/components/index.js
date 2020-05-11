@@ -1,0 +1,1 @@
+// export var home = () => import('../views/home/home')
